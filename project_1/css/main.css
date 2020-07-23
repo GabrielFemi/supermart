@@ -1,0 +1,42 @@
+body 
+{
+	font-family: "Product Sans";
+}
+
+@font-face 
+{
+	font-family: "Neon";
+	src: url("../fonts/Neon/Neon.ttf");
+}
+
+@font-face
+{
+	font-family: "Product Sans";
+	src: url("../fonts/Product Sans/Product Sans.ttf");
+-}
+
+.product-description 
+{
+	font-family: "Neon";
+}
+
+.rounded-50\%
+{
+	border-radius: 10px;
+}
+
+.bg-black 
+{
+	background-color: #000;
+}
+
+.hr-1
+{
+	background-color: white;
+}
+
+.py-5px
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
